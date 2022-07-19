@@ -1,0 +1,48 @@
+.company{
+    position: relative;
+    margin-bottom: 190px;
+}
+
+.company__wrapper{
+    max-width: 1200px;
+    max-height: 538px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.company__text-block{
+    max-width: 575px;
+}
+
+.company__number-block{
+    margin-bottom: 60px;
+}
+
+.company__number{
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 89.6px;
+    color: #1D1D1F;
+}
+
+.company__number-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #838383;
+}
+
+.company__text-title{
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 61.6px;
+    color: #1D1D1F;
+    margin-bottom: 60px;
+}
+
+.company__text-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1D1D1F;
+}

@@ -1,0 +1,62 @@
+.footer{
+    width: 100%;
+
+    background-color: #1D1D1F;
+}
+
+.footer__wrapper{
+    display: flex;
+    height: 400px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__title{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41.6px;
+    color: #ffffff;
+    margin-bottom: 48px;
+}
+
+.footer__text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #838383;
+    margin-bottom: 30px;
+}
+
+.footer__icons{
+    display: flex;
+}
+
+.footer__icon{
+    width: 40px;
+    margin-right: 20px;
+}
+
+.footer__icon:last-child{
+    margin-right: 0;
+}
+
+.form__title{
+    max-width: 501px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41.6px;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.email__input{
+    width: 570px;
+    background-color: inherit;
+    border: 0;
+    border-bottom: 1px solid #838383;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15.73px;
+    letter-spacing: .08em;
+    color: #838383;
+}

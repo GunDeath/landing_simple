@@ -1,0 +1,29 @@
+.oder{
+    margin-bottom: 190px;
+}
+
+.oder__wrapper{
+    width: 100%;
+}
+
+.oder__block{
+    height: 152px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #1D1D1F;
+    border-top: 1px solid #1D1D1F;
+}
+
+.oder__block:not(:first-child){
+    border-top: 0;
+}
+
+.oder__block:last-child{
+    border-bottom: 0;
+}
+
+.oder__text{
+    display: inline-flex;
+    max-width: 570px;
+}

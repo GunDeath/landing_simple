@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+@import "zeroing.css";
+@import "header.css";
+@import "intro.css";
+@import "company.css";
+@import "play.css";
+@import "products.css";
+@import "cite.css";
+@import "slider.css";
+@import "oder.css";
+@import "footer.css";
+@import "media.css";
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.container{
+    max-width: 1200px;
+    margin-inline: auto;
+}
+
+.btn{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 180px;
+    background-color: #fff;
+    height: 60px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20.57px;
+    color: #1D1D1F;
+}

@@ -1,0 +1,28 @@
+.cite{
+    margin-bottom: 190px;
+}
+
+.cite__wrapper{
+    max-width: 820px;
+    max-height: 506px;
+}
+
+.cite__text-title{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 54px;
+    color: #1D1D1F;
+    margin-bottom: 30px;
+}
+
+.cite__text-first{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #838383;
+    margin-bottom: 50px;
+}
+
+.cite__text-first:last-child{
+    margin-bottom: 0;
+}
